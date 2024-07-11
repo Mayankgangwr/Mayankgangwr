@@ -16,8 +16,8 @@ I'm a experienced MERN Stack Developer with 1.5 years of hands-on expertise in b
   
 
 ## Connect with me
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
+- [LinkedIn](https://linkedin.com/in/mayank-gangwar-1443831b7)
+- [Twitter](https://x.com/PrinceKurmi99?t=0jtlF-cr5uQTE4G20bjdgQ&s=31)
 - [Portfolio](https://yourportfolio.com)
 
 <!--
