@@ -1,6 +1,6 @@
 # Hello, I'm Mayank Gangwar 👋
 
-I'm an experienced MERN Stack Developer with 1.5 years of hands-on expertise in building robust web applications. Proficient in leveraging MongoDB, Express.js, React.js, and Node.js to develop scalable and efficient solutions. Adept at both frontend and backend development, with a keen eye for user experience and interface design. Committed to staying updated with the latest technologies and trends in web development. Seeking to contribute my skills and passion for innovation to a dynamic team, where I can continue to grow and make meaningful contributions to exciting projects.
+I'm an experienced MERN Stack Developer with 2.5 years of hands-on expertise in building robust web applications. Proficient in leveraging MongoDB, Express.js, React.js, and Node.js to develop scalable and efficient solutions. Adept at both frontend and backend development, with a keen eye for user experience and interface design. Committed to staying updated with the latest technologies and trends in web development. Seeking to contribute my skills and passion for innovation to a dynamic team, where I can continue to grow and make meaningful contributions to exciting projects.
 
 ## Skills
 - JavaScript
